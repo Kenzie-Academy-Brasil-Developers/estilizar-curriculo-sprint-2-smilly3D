@@ -12,6 +12,10 @@ img{
 	border-radius: 50%;
 	width: 97%;
 }
+a{
+	text-decoration: none;
+	color: #181818;
+}
 #headshot {
 	width: 13.5%;
 	float: left;
@@ -83,10 +87,7 @@ ul{
 .notBorder{
 	margin: 0;
 }
-a{
-	text-decoration: none;
-	color: #181818;
-}
+
 .keySkills{
 	column-fill: balance;
 	column-count: 3;
